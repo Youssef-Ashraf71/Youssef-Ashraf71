@@ -6,7 +6,7 @@
  Student at Faculty of Engineering Cairo University
  
  
- interested in problem solving & cryptos 💻🪙
+ interested in problem solving & cryptos 💻💵
  
  
 connect with me :
