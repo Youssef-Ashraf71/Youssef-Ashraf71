@@ -6,13 +6,14 @@
  Student at Faculty of Engineering Cairo University
  
  
- interested in problem solving & cryptos
+ interested in problem solving & cryptos 💻🪙
  
  
 connect with me :
-- https://www.facebook.com/profile.php?id=100004525787159
-- https://twitter.com/yossifaziz29
+- ❄️ https://www.facebook.com/profile.php?id=100004525787159
+- ❄️ https://twitter.com/yossifaziz29
 
 
  Languages 
-c++ 
+ 
+c++ ❄️
