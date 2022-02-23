@@ -11,8 +11,8 @@
  [Codeforces Profile](https://codeforces.com/profile/yoyobunt)
  
 connect with me :
-- ❄️ https://www.facebook.com/profile.php?id=100004525787159
-- ❄️ https://twitter.com/yoyobunt
+- ❄️ [Facebook] (https://www.facebook.com/profile.php?id=100004525787159)
+- ❄️ [Twitter] (https://twitter.com/yoyobunt)
 
 
  Languages 
