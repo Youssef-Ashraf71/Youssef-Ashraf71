@@ -22,9 +22,8 @@
 &nbsp;&nbsp;
 [![Instagram](./img/instagram-light.svg)](https://www.instagram.com/youssef_ashraf71/#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/youssef_ashraf71/#gh-dark-mode-only)
-## Connect with me :
 - ❄️ [Facebook](https://www.facebook.com/profile.php?id=100004525787159)
-- ❄️ [Twitter](https://twitter.com/yoyobunt)
+
 
 
 ##  Languages 
