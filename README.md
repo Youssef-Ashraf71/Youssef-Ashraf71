@@ -27,8 +27,7 @@
 
 
 ##  Languages & Tools
- <img height="64" width="64" src="https://user-images.githubusercontent.com/83988379/164882289-f3a7dc62-2f06-462e-8f32-fbac0cf18218.png" /> <img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png
-" />
+ <img height="64" width="64" src="https://user-images.githubusercontent.com/83988379/164882289-f3a7dc62-2f06-462e-8f32-fbac0cf18218.png" /> <img height="64" width="64" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 
 
  
