@@ -20,8 +20,8 @@
 &nbsp;&nbsp;
 [![Instagram](./img/instagram-light.svg)](https://www.instagram.com/youssef_ashraf71/#gh-light-mode-only)
 [![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/youssef_ashraf71/#gh-dark-mode-only)
-      [<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/codeforces.svg" />](https://codeforces.com/profile/yoyobunt)   
-  [<img height="64" width="64" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100004525787159)
+      [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/codeforces.svg" />](https://codeforces.com/profile/yoyobunt)   
+  [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100004525787159)
 
 
 
