@@ -27,7 +27,7 @@
 
 
 ##  Languages & Tools
- [<img height="32" width="32" src="(https://user-images.githubusercontent.com/83988379/164882289-f3a7dc62-2f06-462e-8f32-fbac0cf18218.png)" />]
+ [<img height="32" width="32" src="https://user-images.githubusercontent.com/83988379/164882289-f3a7dc62-2f06-462e-8f32-fbac0cf18218.png" />]
 
 
 
