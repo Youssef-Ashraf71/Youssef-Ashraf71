@@ -12,7 +12,7 @@
  [Codeforces Profile](https://codeforces.com/profile/yoyobunt)
  
 
- ### Connect with me:
+ ## Connect with me:
 
 [![Twitter](./img/twitter-light.svg)](https://twitter.com/yoyobunt#gh-light-mode-only)
 [![Twitter](./img/twitter-dark.svg)](https://twitter.com/yoyobunt#gh-dark-mode-only)
