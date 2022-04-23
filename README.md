@@ -5,8 +5,7 @@
 ## I'm an Undergraduate Student at Faculty of Engineering at Cairo University
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Data structres & Algos
-- ⚡ Fun fact: I love crossfit / musica / reading 
+- 🥅 2022 Goals: Learn more about OOP & DSA
  
  [Codeforces Profile](https://codeforces.com/profile/yoyobunt)
  
