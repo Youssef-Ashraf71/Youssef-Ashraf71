@@ -1,12 +1,13 @@
 # Hi there 👋,I'm Youssef
 
 
-![image](https://user-images.githubusercontent.com/83988379/125638805-03c8590f-62d9-47ad-8c1a-5fa21c414e1e.png)
+[![Twitter Follow](https://img.shields.io/twitter/follow/bakar10?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/yoyobunt)
 
- Student at Faculty of Engineering Cairo University
- - Systems and Biomedical Department 
- 
- interested in problem solving & cryptos 💻💵
+## I'm an Undergraduate Student at Faculty of Computers and artificial intelligence at Cairo University
+
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2022 Goals: Learn more about Data structres & Algos
+- ⚡ Fun fact: I love crossfit / musica / reading 
  
  [Codeforces Profile](https://codeforces.com/profile/yoyobunt)
  
