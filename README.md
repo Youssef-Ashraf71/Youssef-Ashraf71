@@ -14,14 +14,14 @@
 
  ### Connect with me:
 
-[![Twitter](./img/twitter-light.svg)]([twitter]#gh-light-mode-only)
-[![Twitter](./img/twitter-dark.svg)]([twitter]#gh-dark-mode-only)
+[![Twitter](./img/twitter-light.svg)](https://twitter.com/yoyobunt#gh-light-mode-only)
+[![Twitter](./img/twitter-dark.svg)](https://twitter.com/yoyobunt#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Linkedin](./img/linkedin-light.svg)]([linkedin]#gh-light-mode-only)
 [![Linkedin](./img/linkedin-dark.svg)]([linkedin]#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Instagram](./img/instagram-light.svg)]([instagram]#gh-light-mode-only)
-[![Instagram](./img/instagram-dark.svg)]([instagram]#gh-dark-mode-only)
+[![Instagram](./img/instagram-light.svg)](https://www.instagram.com/youssef_ashraf71/#gh-light-mode-only)
+[![Instagram](./img/instagram-dark.svg)](https://www.instagram.com/youssef_ashraf71/#gh-dark-mode-only)
 ## Connect with me :
 - ❄️ [Facebook](https://www.facebook.com/profile.php?id=100004525787159)
 - ❄️ [Twitter](https://twitter.com/yoyobunt)
