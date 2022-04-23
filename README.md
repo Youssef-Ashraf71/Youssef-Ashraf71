@@ -24,8 +24,6 @@
   [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100004525787159)
 
 
-- ❄️ [Facebook](https://www.facebook.com/profile.php?id=100004525787159)
-
 
 
 ##  Languages 
