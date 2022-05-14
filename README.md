@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">I'm an Undergraduate Student at Faculty of Engineering at Cairo University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=youssef-ashraf71&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-ashraf71" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=youssef-ashraf71&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-ashraf71" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/yoyobunt" target="blank"><img src="https://img.shields.io/twitter/follow/yoyobunt?logo=twitter&style=for-the-badge" alt="yoyobunt" /></a> </p>
