@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
-<h3 align="center">I'm an Undergraduate Student at Faculty of Engineering at Cairo University</h3>
+<h3 align="center">I'm an Undergraduate Student at Faculty of Engineering || Cairo University</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=youssef-ashraf71&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-ashraf71" /> </p>
 
