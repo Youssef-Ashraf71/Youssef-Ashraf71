@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/yoyobunt" target="blank"><img src="https://img.shields.io/twitter/follow/yoyobunt?color=lime%20green&logo=Twitter&style=for-the-badge" alt="yoyobunt" /></a> </p>
 
-- 🔭 I’m currently working on **Diary Application**
-
 - 🌱 I’m currently learning **Data Structures & Algortihms**
 
 - 📫 How to reach me **yossifaziz29@gmail.com**
