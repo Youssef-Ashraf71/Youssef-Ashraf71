@@ -3,7 +3,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=youssef-ashraf71&label=Profile%20views&color=0e75b6&style=flat" alt="youssef-ashraf71" /> </p>
 
-![](giphy.gif)
+
+<p align="center" width="100%">
+    <img width="50%" height=300px src="giphy.gif">
+</p>
 
 <p align="left"> <a href="https://twitter.com/yoyobunt" target="blank"><img src="https://img.shields.io/twitter/follow/yoyobunt?color=lime%20green&logo=Twitter&style=for-the-badge" alt="yoyobunt" /></a> </p>
 
