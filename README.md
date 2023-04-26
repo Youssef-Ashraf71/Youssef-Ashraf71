@@ -53,7 +53,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssef-ashraf71" alt="youssef-ashraf71" /></a> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssef-ashraf71&show_icons=true&locale=en&layout=compact" alt="youssef-ashraf71" /></p>
 
