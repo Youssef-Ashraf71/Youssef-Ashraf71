@@ -5,7 +5,7 @@
 
 
 <p align="center" width="100%">
-    <img width="50%" height=250px src="giphy.gif">
+    <img width="50%" height=250px src="giphy2.gif">
 </p>
 
 <p align="left"> <a href="https://twitter.com/yoyobunt" target="blank"><img src="https://img.shields.io/twitter/follow/yoyobunt?color=lime%20green&logo=Twitter&style=for-the-badge" alt="yoyobunt" /></a> </p>
